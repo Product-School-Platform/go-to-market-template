@@ -1,47 +1,29 @@
-# Positioning Framework & Statement — Roamly Groups
+# Positioning Framework & Statement · Roamly Groups
 
-> Module 3 · Master Product Positioning — ★ Deliverable 3
->
-> Lock the positioning framework, then write and pressure-test the statement.
+> Module 3 · Deliverable 3. Fill this in from your Module 3 Lab Guide: click Copy markdown and paste over this file, or download positioning.md and upload it here.
 
-## 1. Positioning framework (six components)
+## 1. Positioning framework
 
-| Component | Your answer |
-|---|---|
-| **Target customer** — who is it for? | _____ |
-| **Market category** — what is it? | _____ |
-| **Key benefit** — the #1 value | _____ |
-| **Competitive alternative** — vs. what? | _____ |
-| **Differentiator** — why us, uniquely | _____ |
-| **Proof** — evidence it's true | _____ |
+- **For (target audience):** _____
+- **Who want / need:** _____
+- **We offer:** _____
+- **Because of (value proposition):** _____
+- **Despite (barriers):** _____
+- **Better than (differentiation):** _____
 
-## 2. Core product truth
+## 2. Positioning statement
 
-_The one thing that is undeniably true about Roamly Groups that competitors can't easily claim._
-
+### First draft
 _____
 
-## 3. Positioning statement
+### Pressure test
+- **Test I ran:** _____
+- **What it revealed:** _____
 
-> For **[target customer]** who **[need]**, **Roamly Groups** is the **[category]** that **[key benefit]**. Unlike **[alternative]**, Roamly Groups **[differentiator]**.
-
-## 4. Pressure tests
-
-_Run the statement through each test and note what you'd fix._
-
-| Test | Pass? | Note |
-|---|---|---|
-| **Ownable** — could a competitor say the same? | _____ | _____ |
-| **Believable** — is the proof real? | _____ | _____ |
-| **Relevant** — does the ICP care? | _____ | _____ |
-| **Durable** — holds as the product grows? | _____ | _____ |
-
-## 5. Positioning vs. messaging note
-
-_How does this fixed positioning translate to the homepage headline vs. the sales opener vs. the app store blurb?_
-
+### Final statement
 _____
 
-## Link to full artifact
+## 3. Blind read
 
-_[link to your Positioning Builder export / slide]_
+- **Who my partner said it is for:** _____
+- **The value my partner said it delivers:** _____
