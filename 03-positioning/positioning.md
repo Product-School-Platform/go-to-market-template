@@ -22,8 +22,3 @@ _____
 
 ### Final statement
 _____
-
-## 3. Blind read
-
-- **Who my partner said it is for:** _____
-- **The value my partner said it delivers:** _____
