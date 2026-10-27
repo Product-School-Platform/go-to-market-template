@@ -1,6 +1,6 @@
 # Messaging Pillars · Roamly Groups
 
-> Module 4 · Deliverable 4. Fill this in from your Module 4 Lab Guide: click Copy markdown and paste over this file, or download messaging-and-asset.md and upload it here.
+> Module 4 · Deliverable 4. Fill this in from your Module 4 Lab Guide: click Copy markdown and paste over this file, or download messaging-pillars.md and upload it here.
 
 ## 1. Fro/To market shift
 
