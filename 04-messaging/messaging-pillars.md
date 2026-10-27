@@ -10,16 +10,11 @@
 ## 2. Audiences
 
 - **Number of audiences that need their own message:** _____
-- **Why each one needs its own pillar:** _____
+- **Why you picked this number:** _____
 
 ## 3. Messaging pillars
 
 ### Audience 1: _____
-- **Value prop:** _____
-- **Capabilities:** _____
-- **Evidence:** _____
-
-### Audience 2: _____
 - **Value prop:** _____
 - **Capabilities:** _____
 - **Evidence:** _____
