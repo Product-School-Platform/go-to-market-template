@@ -5,7 +5,6 @@
 ## 1. Pricing goal
 
 - **Goal:** _____
-- **Why now:** _____
 
 ## 2. Pricing model
 
