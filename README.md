@@ -2,7 +2,7 @@
 
 > My final project for Product School's **Go-To-Market** certification. A complete go-to-market strategy for **Roamly Groups**: a new group-booking feature, built across six in-class labs, no homework required.
 
-This is a **template repo**. Click **Use this template → Create a new repository**, name it `roamly-gtm-strategy`, and fill in one folder per module as you go.
+This is a **template repo**. Click **Use this template → Create a new repository**, name it `roamly-gtm-strategy`, choose **Public**, and fill in one folder per module as you go. The Final Project Deliverables Builder reads your files straight from GitHub, which only works on a public repo. Public repos are searchable, so keep anything confidential out of it.
 
 ---
 
