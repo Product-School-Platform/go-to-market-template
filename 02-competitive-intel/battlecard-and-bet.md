@@ -1,44 +1,34 @@
-# Competitive Intelligence & Strategic Bet — Roamly Groups
+# Competitive Intelligence & Strategic Bet · Roamly Groups
 
-> Module 2 · Competitive Intelligence — ★ Deliverable 2
->
-> A battlecard that maps the competitive landscape and the one strategic bet you'll make to win.
+> Module 2 · Deliverable 2. Fill this in from your Module 2 Lab Guide: click Copy markdown and paste over this file, or download battlecard-and-bet.md and upload it here.
 
-## 1. The competitive set
-
-_Who really competes for this job — including the "do nothing" / spreadsheet alternative?_
-
-| Competitor | What they do well | Where they're weak | How we win |
-|---|---|---|---|
-| _____ | _____ | _____ | _____ |
-| _____ | _____ | _____ | _____ |
-| _____ | _____ | _____ | _____ |
+## 1. Primary competitor
+- **Competitor:** _____
+- **Core offering:** _____
+- **How they position themselves:** _____
+- **Primary audience:** _____
+- **Known pricing or packaging:** _____
+- **Why they're the biggest threat:** _____
 
 ## 2. Battlecard
+_____
 
-- **Our one-line advantage:** _____
-- **Trap to set / question to plant:** _What question makes the prospect doubt the alternative?_
-- **Objection → response:**
-  - _"[likely objection]"_ → _____
-  - _"[likely objection]"_ → _____
+## 3. What I want to revisit in my Module 1 strategy
+_____
 
-## 3. The strategic bet
+## 4. Strategic bet
 
-_The single, defensible bet for Roamly Groups. Not a feature list — a wager about the market._
+### Data
+- **Who Roamly Groups is for:** _____
+- **The one thing worth choosing it for:** _____
+- **The biggest threat to that position:** _____
 
-> We are betting that _____, because _____.
+### Insight
+_____
 
-- **Why now:** _____
-- **What we're deliberately NOT doing:** _____
-- **What would prove the bet right within 90 days:** _____
+### Belief
+_____
 
-## 4. Evidence
-
-_The signals (data, quotes, trends) that back the bet._
-
-- _____
-- _____
-
-## Link to full artifact
-
-_[link to your Battlecard Builder export / slide]_
+### Bet
+- **I am betting that Roamly Groups wins by:** _____
+- **To make this bet, I am deprioritizing:** _____
